@@ -1,4 +1,4 @@
-FROM daocloud.io/python:3.7
+FROM daocloud.io/library/python:3.6-rc-alpine
 MAINTAINER zenquan <jomsoucan@gmail.com>
 
 RUN mkdir -p /app
